@@ -3,7 +3,6 @@ body{
     font-family: Geneva;
     margin-top: 15px;
     background-image: url("bg.png");
-    background-color: rgb(255, 0, 0);
     background-repeat: repeat;
 }
 .progress-container {
