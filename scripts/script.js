@@ -42,7 +42,7 @@ const questions = [
         correctAnsw: 1
     },
     q6 = {
-        headline: 'What company own Moo-Moo Meadows?',
+        headline: 'What company owns Moo-Moo Meadows?',
         answers: ['Microsoft', 'Blackrock', 'Junkyminds', 'Lucasfilm'],
         correctAnsw: 3
     }
